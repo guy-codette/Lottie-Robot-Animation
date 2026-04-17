@@ -7,7 +7,7 @@ export default function Home() {
                 className="flex flex-1 w-full max-w-3xl flex-col items-center justify-center py-32 px-16 bg-white dark:bg-black sm:items-start">
                 <div className="flex flex-col max-w-4xl items-center gap-6 text-center mx-auto">
                     <div>
-                        <h1 className="bg-yellow-300 w-fit mx-auto text-5xl leading-snug font-semibold tracking-tight text-black rounded-sm px-5 mb-3">
+                        <h1 className="bg-yellow-300 w-fit mx-auto text-5xl leading-none font-semibold text-black rounded-sm shadow shadow-zinc-900/40 py-1 px-5 mb-3">
                             DotLottie
                         </h1>
                         <h2 className="text-4xl leading-tight font-semibold tracking-tight text-black mb-3">
