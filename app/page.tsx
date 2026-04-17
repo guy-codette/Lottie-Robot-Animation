@@ -11,9 +11,7 @@ export default function Home() {
           <p className="text-lg leading-8 text-zinc-600 dark:text-zinc-400">
             Ervaar de kracht van vector-gebaseerde beweging. In tegenstelling tot zware GIF's of wazige video's, biedt Lottie haarscherpe 60fps animaties in een JSON-formaat dat kleiner is dan een gemiddelde afbeelding. Perfecte scherpte op elk scherm, van smartphone tot 4K-monitor.
           </p>
-          <div className="mx-auto">
             <Animation404 />
-          </div>
         </div>
 
       </main>
